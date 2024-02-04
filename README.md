@@ -16,7 +16,7 @@ This project leverages the power of OpenAI's GPT-4 to generate React hook exampl
 ### 1. Clone Repo
 
 ```
-git clone https://your-repository-link.git
+git clone https://github.com/juanc004/Coding-GPT-Assistant.git
 ```
 
 ### 2. Install Dependencies
